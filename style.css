@@ -266,20 +266,20 @@ p{
     background: #03a9f4;
 }
 
-.interest ul
+.about-interest ul
 {
     display: grid;
     grid-template-columns: repeat(3,1fr);
 }
 
-.interest ul li 
+.about-interest ul li 
 {
     color: #333;
     font-weight: 500;
     margin: 10px 0;
 }
 
-.interest ul li .fa 
+.about-interest ul li .fa 
 {
     color: #03a9f4;
     font-size: 18px;
@@ -294,7 +294,7 @@ p{
         margin: 10px;
         grid-template-columns: repeat(1,1fr);
     }
-    .interest
+    .about-interest
     {
         grid-template-columns: repeat(3,1fr);
     }
@@ -311,7 +311,7 @@ p{
     }
 }
 
-.interest
+.about-interest
     {
         grid-template-columns: repeat(1,1fr);
     }
